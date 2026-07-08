@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@keyframes rotatePhone {
+  0%, 10% {
+    transform: rotate(0deg);
+  }
+  40%, 60% {
+    transform: rotate(-90deg);
+  }
+  90%, 100% {
+    transform: rotate(0deg);
+  }
+}
+
+.animate-rotate-phone {
+  animation: rotatePhone 3s ease-in-out infinite;
+}
+
