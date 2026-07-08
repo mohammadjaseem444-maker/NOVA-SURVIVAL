@@ -1,0 +1,6 @@
+{
+  "name": "3D Battle Royale Simulator",
+  "description": "An action-packed, offline 3D Battle Royale simulation game fully configured as a Progressive Web App (PWA) and optimized for landscape view across all mobile devices, featuring a dynamic loot system, intelligent AI bots, and a shrinking safe zone.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
